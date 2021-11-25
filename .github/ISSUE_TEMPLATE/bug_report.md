@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: Omuni Reborn Bug Report Template
+title: [Bug Title] - [short description]
 labels: bug
 assignees: ''
 
